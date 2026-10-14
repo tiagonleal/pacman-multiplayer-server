@@ -1,0 +1,13 @@
+# Level 3 - Maze
+DIM 14 8
+TEMPO 150
+MON g5.mon g6.mon g7.mon
+XXXXXXXXXXXXXX
+Xoooooo@oooooX
+XoXXXXoooXXXX@
+XoooXooooXooXX
+XoXXooXXooXXoX
+Xooo@ooo@ooooX
+XooXXXXoooXXX@
+XXXXXXXXXXXXXX
+

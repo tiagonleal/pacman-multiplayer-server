@@ -1,0 +1,13 @@
+# Level 2 - Crossroads
+DIM 12 7
+TEMPO 180
+PAC p1.pac
+MON g3.mon g4.mon
+XXXXXXXXXXXX
+Xooooo@ooooX
+XoXXXoXXXooX
+Xoo@ooXoo@oX
+XoXXXoXXXooX
+Xooooo@ooooX
+XXXXXXXXXXXX
+

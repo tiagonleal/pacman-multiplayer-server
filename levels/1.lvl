@@ -1,0 +1,12 @@
+# Level 1 - 10x6
+DIM 10 6
+TEMPO 150
+PAC p1.pac
+MON g1.mon
+XXXXXXXXXX
+Xo.....@.X
+X..XX...XX
+X....X...X
+X........X
+XXXXXXXXXX
+

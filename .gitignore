@@ -1,0 +1,6 @@
+bin/
+obj/
+*.o
+server_log.txt
+top5.txt
+*.fifo
